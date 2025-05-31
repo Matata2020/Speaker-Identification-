@@ -1,4 +1,5 @@
 # Speaker-Identification-
+NOTE => Download MATLAB 64-bit compiler and vs code..
 Voice matching:
 Project Overview
 Our goal is to build a speaker recognition/identification system, which can be able to identify a person from the characteristics of his/her voice. In other words, we want to know who is speaking rather than recognizing what is being said.
